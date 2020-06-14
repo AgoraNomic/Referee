@@ -1,0 +1,100 @@
+------------------------------------------------------------------------
+              Crime and Punishment (Referee's Weekly Report)
+------------------------------------------------------------------------
+
+Date of this report: 2020-06-14
+Date of last report: 2020-06-07
+(all times UTC)
+
+
+BLOT HOLDINGS                                            (self-ratifies)
+========================================================================
+
+   Blots    Active player
+   -----    -------------
+     2      Gaelan
+     1      G.
+     2      omd
+
+   Blots    Zombie
+   -----    ------
+
+   No fugitives exist.
+
+
+BLOT HISTORY                                      (does not self-ratify)
+========================================================================
+
+Person        Change   Date        Reason
+------------  -------  ----------  -------------------------------------
+nch            -1      2020-06-12  Expunged
+G.             +1      2020-06-10  Faking
+R. Lee         -1      2020-06-08  Expunged
+twg            -1      2020-06-07  Expunged by Jason
+twg            -1      2020-06-07  Expunged by G.
+                       2020-06-07  [date of last report]
+Trigon         -1      2020-06-05  Expunged
+G.             -1      2020-05-26  Expunged
+nch            -1      2020-05-26  Expunged
+Trigon         +1 (f)  2020-05-26  Breach of pledge
+R. Lee         -1      2020-05-26  Expunged
+R. Lee         +2      2020-05-24  Breach of pledge
+Murphy         -1      2020-05-22  Expunged
+twg            -1      2020-05-12  Expunged by Jason
+Falsifian      -1      2020-04-29  Expunged
+Gaelan         +2 (D)  2020-04-25  Tardiness (Notary)
+G.             -1      2020-04-25  Expunged
+Murphy         +1 (f)  2020-04-24  Failure to respond to a petition
+twg            +1 (f)  2020-04-24  Failure to respond to a petition
+Falsifian      -1      2020-04-19  Expunged
+Murphy         -1      2020-04-19  Expunged
+Alexis         -1      2020-04-19  Expunged
+G.             +2 (f)  2020-04-17  Tardiness (Arbitor)
+Murphy         +1 (D)  2020-04-17  Tardiness (ADoP)
+Alexis         -1      2020-04-11  Expunged
+Falsifian      +2      2020-04-09  Untimely deregistration of o
+Falsifian      -1      2020-04-01  Expunged
+Alexis         +1 (f)  2020-03-29  Tardiness (Herald)
+Falsifian      +1 (f)  2020-03-29  Tardiness (Registrar)
+twg            +2 (D)  2020-03-28  Tardiness (Referee)
+Gaelan         -1      2020-03-09  Expunged
+Aris           -1      2020-03-09  Expunged
+Gaelan         -1      2020-03-09  Expunged
+Aris           -1      2020-03-08  Expunged
+Alexis         -1      2020-03-07  Expunged
+Alexis         -1      2020-02-23  Apology
+Alexis         +1 (f)  2020-02-18  Untimely Speaker appointment (P.M.)
+Alexis         +1 (f)  2020-02-15  Untimely CoE response (Herald)
+Alexis         +1 (f)  2020-02-15  Tardiness (Herald)
+omd            +2      2020-02-15  Untimely CFJ judgement
+Gaelan         +2      2020-02-15  Untimely CFJ judgement
+Aris           +2 (f)  2020-02-10  Untimely CoE response (Promotor)
+twg            -1      2020-01-28  Expunged
+twg            +1 (S)  2020-01-24  In order to set up CFJ 3798
+nch            +2 (D)  2020-01-14  Tardiness (Tailor)
+Corona         -1      2019-12-04  Expunged by Bernie
+Corona         -1      2019-12-04  Expunged by Jason
+twg            -1      2019-11-23  Expunged by Falsifian
+Corona         -1      2019-11-21  Expunged by Rance
+Corona         -1      2019-11-21  Expunged by G.
+twg            -1      2019-11-20  Expunged
+twg            +2 (S)  2019-11-05  Untimely CFJ judgement
+Aris           -2      2019-10-27  Apology
+Aris           +2 (f)  2019-10-25  Untimely proposal distribution (Promotor)
+L.             -1      2019-10-08  Expunged by G.
+P.S.S.         -1      2019-10-08  Expunged by Bernie
+R. Lee         -1      2019-10-08  Expunged by Jason
+Kenyon         -1      2019-10-08  Expunged by twg
+Kenyon         -1      2019-10-01  Fugitives' blots decay
+P.S.S.         -1      2019-10-01  Fugitives' blots decay
+Corona         -4      2019-10-01  Fugitives' blots decay
+G.             -1      2019-09-29  Expunged
+G.             -1      2019-09-16  Expunged
+G.             +2 (D)  2019-09-15  Untimely CFJ assignment (Arbitor)
+Jason          -1      2019-09-11  Expunged
+Jason          +1 (D)  2019-09-02  Inaccurate report (Astronomor)
+
+(f) forgivable by R2557
+(D) loses next monthly salary for noted office by R2559
+(S) Summary Judgement by R2479
+(J) disputed by open CFJ 
