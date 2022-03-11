@@ -2,8 +2,8 @@
                          GO TO JAIL
                  (Referee's Weekly Report)
 ----------------------------------------------------------------------
-Date of this report: 04 March 2022
-Date of last report: 24 February 2022
+Date of this report: 11 March 2022
+Date of last report: 04 March 2022
 (all times UTC)
 
 
@@ -12,12 +12,12 @@ BLOT HOLDINGS                                   (self-ratifies)
  Blots  Person
  -----  -------------
  7      Madrid
+ 6      ATMunn
  4      Trigon
  4      nix
  3      Cuddlybanana
- 2      ATMunn
- 2      Jason
  1      G.
+ 1      Aspen
  1      Shy Owl (fugitive)
 
 
@@ -25,8 +25,12 @@ BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
-Jason          +2      2022-02-28  Cabinet Order of Dive
+Aspen          +1 (f)  2022-02-11  CHoJ: No Promotor Report 2/28 wk 
+ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/28 wk 
+ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/21 wk 
+Jason          -2      2022-02-05  Expunged with 2 BBGs
 [TIME OF LAST REPORT]
+Jason          +2      2022-02-28  Cabinet Order of Dive
 Murphy         -1      2022-02-21  Apology
 Murphy         +1 (f)  2022-02-18  CHOJ for late judgement (CFJ 3940)
 Cuddlybanana   +2      2022-02-18  CHoJ for late judgement (CFJ 3941)
