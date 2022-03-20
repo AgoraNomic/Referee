@@ -2,7 +2,7 @@
                          GO TO JAIL
                  (Referee's Weekly Report)
 ----------------------------------------------------------------------
-Date of this report: 20 March 2022
+Date of this report: 20 March 2022 (revision 1)
 Date of last report: 11 March 2022
 (all times UTC)
 
@@ -13,8 +13,8 @@ BLOT HOLDINGS                                   (self-ratifies)
  -----  -------------
  7      Madrid
  4      Trigon
- 4      nix
  3      Cuddlybanana
+ 2      nix
  2      secretsnail
  1      G.
  1      Aspen
@@ -26,6 +26,7 @@ BLOT HISTORY                           (does not self-ratify)
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
 secretsnail    +2      2022-03-18  Cabinet order of Dive
+nix            -2      2022-03-16  Expunged with 2 BBGs
 ATMunn         -6      2022-03-14  Expunged with 6 BBGs
 [TIME OF LAST REPORT]
 Aspen          +1 (f)  2022-02-11  CHoJ: No Promotor Report 2/28 wk 
