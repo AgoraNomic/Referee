@@ -2,10 +2,9 @@
                          GO TO JAIL
                  (Referee's Weekly Report)
 ----------------------------------------------------------------------
-Date of this report: 20 March 2022 (revision 1)
-Date of last report: 11 March 2022
+Date of this report: 27 March 2022
+Date of last report: 20 March 2022
 (all times UTC)
-
 
 BLOT HOLDINGS                                   (self-ratifies)
 ======================================================================
@@ -16,19 +15,39 @@ BLOT HOLDINGS                                   (self-ratifies)
  3      Cuddlybanana
  2      nix
  2      secretsnail
+ 2      Jason
  1      G.
  1      Aspen
  1      Shy Owl (fugitive)
+
+
+UNRESOLVED FINGER-POINTS (does not self-ratify)
+======================================================================
+By secretsnail (Mar 24 23:02 UTC)
+> I point my finger at nix for violating rule 2143, committing the
+> Class 2 Crime of Tardiness, via failing to perform the Herald's
+> weekly duties in the week of 7 March 2022.
+
+By secretsnail (Mar 24 23:02 UTC)
+> I point my finger at Trigon for violating rule 2143, committing the
+> Class 2 Crime of Tardiness, via failing to perform the Treasuror's
+> weekly duties in the week of 7 March 2022.
+
+By secretsnail (Mar 26 06:00 UTC)
+> I point my finger at Aspen for breaking Rule 1607 (Distribution) by
+> distributing the non-pending proposal, "The Hexeract" (Proposal 8663) on or
+> around Saturday, March 26th, 2022, 3:39:27.
 
 
 BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
+Jason          +2      2022-03-27  CHoJ: No Rulekeepor Report 3/7 wk
+[TIME OF LAST REPORT]
 secretsnail    +2      2022-03-18  Cabinet order of Dive
 nix            -2      2022-03-16  Expunged with 2 BBGs
 ATMunn         -6      2022-03-14  Expunged with 6 BBGs
-[TIME OF LAST REPORT]
 Aspen          +1 (f)  2022-02-11  CHoJ: No Promotor Report 2/28 wk 
 ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/28 wk 
 ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/21 wk 
