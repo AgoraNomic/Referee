@@ -2,7 +2,7 @@
                          GO TO JAIL
                  (Referee's Weekly Report)
 ----------------------------------------------------------------------
-Date of this report: 04 April 2022
+Date of this report: 04 April 2022 (revision 1)
 Date of last report: 27 March 2022
 (all times UTC)
 
@@ -16,6 +16,7 @@ BLOT HOLDINGS                                   (self-ratifies)
  3      Cuddlybanana
  3      Jason
  2      G.
+ 1      Madrid
  1      Aspen
  1      Juan
  1      Shy Owl (fugitive)
@@ -29,7 +30,6 @@ BLOT HISTORY                           (does not self-ratify)
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
 secretsnail    +2 (f)  2022-04-03  CHoJ: No registrar monthly in March
-Madrid         -1      2022-04-03  expunged by Madrid for 1BBG fee
 Madrid         +1      2022-04-01  Levied via 2BBG fee by G.
 Juan           +1      2022-04-01  Levied via 2BBG fee by G.
 Madrid         -7      2022-04-01  expunged by Madrid for 7BBG fees 
