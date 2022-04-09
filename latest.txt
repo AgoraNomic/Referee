@@ -2,16 +2,15 @@
                          GO TO JAIL
                  (Referee's Weekly Report)
 ----------------------------------------------------------------------
-Date of this report: 04 April 2022 (revision 1)
-Date of last report: 27 March 2022
+Date of this report: 09 April 2022
+Date of last report: 04 April 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
 ======================================================================
  Blots  Person
  -----  -------------
- 6      Trigon
- 5      secretsnail
+ 7      Trigon
  4      nix
  3      Cuddlybanana
  3      Jason
@@ -23,12 +22,23 @@ BLOT HOLDINGS                                   (self-ratifies)
 
 UNRESOLVED FINGER-POINTS (does not self-ratify)
 ======================================================================
-(none)
+2022-04-08
+By secretsnail at juan for forbidden action (Ossification proposal)
+
+2022-04-08
+By nix at nix for Engaging in Forbidden Arts. ("blurp")
+
+2022-04-08
+By nix at nix for Engaging in Forbidden Arts. ("I ossify agora")
 
 BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
+secretsnail    -3      2022-04-06  Expunged by G. for 3 BBGs in fees
+Trigon         +1      2022-04-04  Levied via 2BBG fee via ais523
+secretsnail    -2      2022-04-04  Apology for no registrar monthly
+[TIME OF LAST REPORT]
 secretsnail    +2 (f)  2022-04-03  CHoJ: No registrar monthly in March
 Madrid         +1      2022-04-01  Levied via 2BBG fee by G.
 Juan           +1      2022-04-01  Levied via 2BBG fee by G.
@@ -41,7 +51,6 @@ Aspen          +1      2022-04-01  Levied via 2BBG fee by G.
 Aspen          +1 (f)  2022-03-30  CHoJ: distributing unpended
 Trigon         +2      2022-03-30  CHoJ: No Treasuror wkly 3/7 wk
 nix            +2      2022-03-30  CHoJ: No Herald's weekly 3/7 wk
-[TIME OF LAST REPORT]
 Jason          +2      2022-03-27  CHoJ: No Rulekeepor Report 3/7 wk
 secretsnail    +2      2022-03-18  Cabinet order of Dive
 nix            -2      2022-03-16  Expunged with 2 BBGs
