@@ -3,8 +3,8 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 17 April 2022
-Date of last report: 09 April 2022
+Date of this report: 24 April 2022
+Date of last report: 17 April 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
@@ -16,6 +16,7 @@ BLOT HOLDINGS                                   (self-ratifies)
  3      Cuddlybanana
  3      Jason
  2      G.
+ 2      R. Lee
  1      Madrid
  1      Aspen
  1      Juan
@@ -23,17 +24,17 @@ BLOT HOLDINGS                                   (self-ratifies)
 
 UNRESOLVED FINGER-POINTS (does not self-ratify)
 ======================================================================
-14-Apr-22
-by ais523, at secretsnail for unjustified gesticulation.
-
+(none)
 
 BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
+R. Lee         +2      2022-04-24  CHoJ: Failure to judge CFJ 3956
+secretsnail    +0 (W)  2022-04-24  Unjustified Gesticulation
+[TIME OF LAST REPORT]
 nix            +1 (f)  2022-04-10  CHoJ: Unjustified Gesticulation
 nix            +0 (W)  2022-04-10  Unjustified Gesticulation
-[TIME OF LAST REPORT]
 secretsnail    -3      2022-04-06  Expunged by G. for 3 BBGs in fees
 Trigon         +1      2022-04-04  Levied via 2BBG fee via ais523
 secretsnail    -2      2022-04-04  Apology for no registrar monthly
