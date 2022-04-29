@@ -3,8 +3,8 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 24 April 2022
-Date of last report: 17 April 2022
+Date of this report: 29 April 2022
+Date of last report: 24 April 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
@@ -30,9 +30,9 @@ BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
+[TIME OF LAST REPORT]
 R. Lee         +2      2022-04-24  CHoJ: Failure to judge CFJ 3956
 secretsnail    +0 (W)  2022-04-24  Unjustified Gesticulation
-[TIME OF LAST REPORT]
 nix            +1 (f)  2022-04-10  CHoJ: Unjustified Gesticulation
 nix            +0 (W)  2022-04-10  Unjustified Gesticulation
 secretsnail    -3      2022-04-06  Expunged by G. for 3 BBGs in fees
