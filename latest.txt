@@ -1,10 +1,13 @@
+[Note: I've indicated the timing of the end of the PM/Registrar/Arbitor
+election voting periods in the History section]
+
 ----------------------------------------------------------------------
                          GO TO JAIL
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 15 May 2022
-Date of last report: 07 May 2022
+Date of this report: 22 May 2022
+Date of last report: 15 May 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
@@ -12,11 +15,10 @@ BLOT HOLDINGS                                   (self-ratifies)
  Blots  Person
  -----  -------------
  3      Cuddlybanana
- 3      Jason
+ 3      Madrid
+ 2      Jason
  2      nix
- 2      G.
  2      R. Lee
- 1      Madrid
  1      Juan
  1      Shy Owl (fugitive)
 
@@ -28,8 +30,12 @@ BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
-nix            -3      2022-05-14  Expunged for 3 BBGs in fees
+[ELECTION VOTING PERIOD ENDED]
+G.             -2      2022-05-15  Expunged for 2 BBGs in fees
+Madrid         +2      2022-05-15  Cabinet Order of Dive
+Jason          -1      2022-05-15  Expunged for 1 BBG in fees
 [TIME OF LAST REPORT]
+nix            -3      2022-05-14  Expunged for 3 BBGs in fees
 Aspen          -1      2022-05-02  Expunged by G. for 1 BBG in fees
 Trigon         -7      2022-05-02  Expunged by G. for 7 BBGs in fees
 R. Lee         +2      2022-04-24  CHoJ: Failure to judge CFJ 3956
