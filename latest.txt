@@ -1,40 +1,37 @@
-[Note: I've indicated the timing of the end of the PM/Registrar/Arbitor
-election voting periods in the History section]
-
 ----------------------------------------------------------------------
                          GO TO JAIL
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 22 May 2022
-Date of last report: 15 May 2022
+Date of this report: 08 June 2022
+Date of last report: 05 June 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
 ======================================================================
- Blots  Person
- -----  -------------
- 3      Cuddlybanana
- 3      Madrid
- 2      Jason
- 2      nix
- 2      R. Lee
- 1      Juan
- 1      Shy Owl (fugitive)
+There are no blots in existence.  Everyone is immaculate.
+
 
 UNRESOLVED FINGER-POINTS (does not self-ratify)
 ======================================================================
 (none)
 
+
 BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
-[ELECTION VOTING PERIOD ENDED]
+Shy Owl        -1      2022-06-08  Expunged by G. (1 BBG in fees) 
+R. Lee         -2      2022-06-08  Expunged by G. (2 BBGs in fees)
+nix            -2      2022-06-08  Expunged by G. (2 BBGs in fees)
+Jason          -2      2022-06-08  Expunged by G. (2 BBGs in fees)
+Cuddlybanana   -3      2022-06-08  Expunged by G. (3 BBGs in fees)
+Madrid         -3      2022-06-06  Self-expunged (3 BBGs in fees)    
+Juan           -1      2022-06-06  Self-expunged (1 BBG in fees)
+[TIME OF LAST REPORT]
 G.             -2      2022-05-15  Expunged for 2 BBGs in fees
 Madrid         +2      2022-05-15  Cabinet Order of Dive
 Jason          -1      2022-05-15  Expunged for 1 BBG in fees
-[TIME OF LAST REPORT]
 nix            -3      2022-05-14  Expunged for 3 BBGs in fees
 Aspen          -1      2022-05-02  Expunged by G. for 1 BBG in fees
 Trigon         -7      2022-05-02  Expunged by G. for 7 BBGs in fees
