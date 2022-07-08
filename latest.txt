@@ -11,7 +11,7 @@ BLOT HOLDINGS                                   (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-1      ais523
+0      ais523
 
 
 UNRESOLVED FINGER-POINTS (does not self-ratify)
@@ -23,15 +23,16 @@ BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
+ais523         -1      2022-06-19  Weekly self-expungement
+[TIME OF LAST REPORT]
 ais523         -1      2022-06-13  Weekly self-expungement
 ais523         +2      2022-06-12  Cabinet Order of Dive
-[TIME OF LAST REPORT]
-Shy Owl        -1      2022-06-08  Expunged by G. (1 BBG in fees) 
+Shy Owl        -1      2022-06-08  Expunged by G. (1 BBG in fees)
 R. Lee         -2      2022-06-08  Expunged by G. (2 BBGs in fees)
 nix            -2      2022-06-08  Expunged by G. (2 BBGs in fees)
 Jason          -2      2022-06-08  Expunged by G. (2 BBGs in fees)
 Cuddlybanana   -3      2022-06-08  Expunged by G. (3 BBGs in fees)
-Madrid         -3      2022-06-06  Self-expunged (3 BBGs in fees)    
+Madrid         -3      2022-06-06  Self-expunged (3 BBGs in fees)
 Juan           -1      2022-06-06  Self-expunged (1 BBG in fees)
 G.             -2      2022-05-15  Expunged for 2 BBGs in fees
 Madrid         +2      2022-05-15  Cabinet Order of Dive
@@ -49,7 +50,7 @@ secretsnail    -2      2022-04-04  Apology for no registrar monthly
 secretsnail    +2 (f)  2022-04-03  CHoJ: No registrar monthly in March
 Madrid         +1      2022-04-01  Levied via 2BBG fee by G.
 Juan           +1      2022-04-01  Levied via 2BBG fee by G.
-Madrid         -7      2022-04-01  expunged by Madrid for 7BBG fees 
+Madrid         -7      2022-04-01  expunged by Madrid for 7BBG fees
 Aspen          -2      2022-04-01  expunged by Aspen for 2BBG fees
 G.             +1      2022-04-01  by announcement by G.
 Jason          +1      2022-04-01  Levied via 2BBG fee by G.
@@ -62,9 +63,9 @@ Jason          +2      2022-03-27  CHoJ: No Rulekeepor Report 3/7 wk
 secretsnail    +2      2022-03-18  Cabinet order of Dive
 nix            -2      2022-03-16  Expunged with 2 BBGs
 ATMunn         -6      2022-03-14  Expunged with 6 BBGs
-Aspen          +1 (f)  2022-02-11  CHoJ: No Promotor Report 2/28 wk 
-ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/28 wk 
-ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/21 wk 
+Aspen          +1 (f)  2022-02-11  CHoJ: No Promotor Report 2/28 wk
+ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/28 wk
+ATMunn         +2      2022-02-11  CHoJ: No Notary Report 2/21 wk
 Jason          -2      2022-02-05  Expunged with 2 BBGs
 Jason          +2      2022-02-28  Cabinet Order of Dive
 Murphy         -1      2022-02-21  Apology
