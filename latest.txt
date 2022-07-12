@@ -3,15 +3,15 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 07 July 2022
-Date of last report: 17 June 2022
+Date of this report: 11 July 2022
+Date of last report: 07 July 2022
 (all times UTC)
 
 BLOT HOLDINGS                                   (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-0      ais523
+2      secretsnail9
 
 
 UNRESOLVED FINGER-POINTS (does not self-ratify)
@@ -23,8 +23,9 @@ BLOT HISTORY                           (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
-ais523         -1      2022-06-19  Weekly self-expungement
+secretsnail    +2      2022-07-11  Violation of Rule 879
 [TIME OF LAST REPORT]
+ais523         -1      2022-06-19  Weekly self-expungement
 ais523         -1      2022-06-13  Weekly self-expungement
 ais523         +2      2022-06-12  Cabinet Order of Dive
 Shy Owl        -1      2022-06-08  Expunged by G. (1 BBG in fees)
