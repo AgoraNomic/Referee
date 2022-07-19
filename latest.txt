@@ -25,7 +25,7 @@ Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
 secretsnail    -2      2022-07-18  Apology received and accepted
 [TIME OF LAST REPORT]
-secretsnail    +2      2022-07-11  Violation of Rule 879
+secretsnail    +2 (f)  2022-07-11  Violation of Rule 879
 ais523         -1      2022-06-19  Weekly self-expungement
 ais523         -1      2022-06-13  Weekly self-expungement
 ais523         +2      2022-06-12  Cabinet Order of Dive
