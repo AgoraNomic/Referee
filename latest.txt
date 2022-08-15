@@ -5,7 +5,7 @@ to infractions not being pointed out.
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: ?? August 2022
+Date of this report: 15 August 2022
 Date of last report: 08 August 2022
 (all times UTC)
 
@@ -13,23 +13,20 @@ BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-0      cuddlybanana
+(none)
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
 Reporter  Infracter  Date        Investigated  Rewarded  Crime
 --------  ---------  ----------  ------------  --------  -----
-ss9[1]    banana[2]  2022-08-04  Yes           Yes       R2143
-
-1) secretsnail
-2) cuddlybanana
+(none from past week)
 
 BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  --------------------------------
-cuddlybanana   -1      2022-08-08  Expunged by Madrid
 [TIME OF LAST REPORT]
+cuddlybanana   -1      2022-08-08  Expunged by Madrid
 cuddlybanana   +1      2022-08-04  Monthly Tardiness
 secretsnail    -2      2022-07-18  Apology received and accepted
 secretsnail    +2 (f)  2022-07-11  Violation of Rule 879
