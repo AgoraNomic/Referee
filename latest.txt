@@ -1,30 +1,35 @@
 All blot holdings are a little uncertain and therefore approximate due
-to infractions not being pointed out.
+to uncertainty about whether certain things are infractions, or 
+whether said infractions have been forgiven, automatically or 
+otherwise.
 ----------------------------------------------------------------------
                          GO TO JAIL
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 15 August 2022
-Date of last report: 08 August 2022
+Date of this report: 22 August 2022
+Date of last report: 15 August 2022
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-(none)
+0      Gaelan
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
-Reporter  Infracter  Date        Investigated  Rewarded  Crime
---------  ---------  ----------  ------------  --------  -----
-(none from past week)
+Reporter  Infracter  Date        In. Fg.  Crime
+--------  ---------  ----------  --- --- -----------------------------
+Gaelan    Gaelan     2022-08-21  No  ??? Violation of Rule 2471
+
+In. - Investigated
+Fg. - Forgiven
 
 BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
-------------  -------  ----------  --------------------------------
+------------  -------  ----------  -----------------------------------
 [TIME OF LAST REPORT]
 cuddlybanana   -1      2022-08-08  Expunged by Madrid
 cuddlybanana   +1      2022-08-04  Monthly Tardiness
