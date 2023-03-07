@@ -7,14 +7,15 @@ otherwise.
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 15 February 2023
-Date of last report: 06 February 2023
+Date of this report: 06 March 2023
+Date of last report: 15 February 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
+2      Janet
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
@@ -28,6 +29,7 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
+Janet          +2      2023-03-06  Prime Minister Dive Order
 [TIME OF LAST REPORT]
 cuddlybanana   -1      2022-08-08  Expunged by Madrid
 cuddlybanana   +1      2022-08-04  Monthly Tardiness
