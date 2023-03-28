@@ -3,8 +3,8 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 16 March 2023
-Date of last report: 06 March 2023
+Date of this report: 28 March 2023
+Date of last report: 16 March 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
@@ -12,7 +12,7 @@ BLOT HOLDINGS                                        (self-ratifies)
 Blots  Person
 -----  -------------
 3      Janet
-2      Snail
+1      Snail
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
@@ -28,9 +28,10 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
+Snail          -1      2023-03-27  Self-Expungement
+[TIME OF LAST REPORT]
 Snail          +2      2023-03-16  Violating R591
 Janet          +1      2023-03-16  Weekly Tardiness
-[TIME OF LAST REPORT]
 Janet          +2      2023-03-06  Prime Minister Dive Order
 cuddlybanana   -1      2022-08-08  Expunged by Madrid
 cuddlybanana   +1      2022-08-04  Monthly Tardiness
