@@ -11,13 +11,13 @@ BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
+2      Snail
 0      Janet
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
 Reporter  Infracter  Date        In. Fg.  Crime
 --------  ---------  ----------  --- --- -----------------------------
-4st       nix        2023-04-05  Yes No  Weekly Tardiness
 
 In. - Investigated
 Fg. - Forgiven
@@ -26,6 +26,7 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
+Snail          +2      2023-04-14  Prime Minister Dive Order
 Janet          -1      2023-04-14  Self-Expungement
 [TIME OF LAST REPORT]
 nix             0      2023-04-05  Weekly Tardiness
