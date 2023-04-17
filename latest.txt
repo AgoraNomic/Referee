@@ -3,8 +3,8 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 14 April 2023
-Date of last report: 9 April 2023
+Date of this report: 17 April 2023
+Date of last report: 14 April 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
@@ -26,9 +26,9 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
+[TIME OF LAST REPORT]
 Snail          +2      2023-04-14  Prime Minister Dive Order
 Janet          -1      2023-04-14  Self-Expungement
-[TIME OF LAST REPORT]
 nix             0      2023-04-05  Weekly Tardiness
 Snail          -1      2023-04-04  Self-Expungement
 Janet          -1      2023-04-03  Self-Expungement
