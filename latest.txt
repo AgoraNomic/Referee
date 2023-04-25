@@ -3,8 +3,8 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 17 April 2023
-Date of last report: 14 April 2023
+Date of this report: 25 April 2023
+Date of last report: 17 April 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
@@ -12,7 +12,6 @@ BLOT HOLDINGS                                        (self-ratifies)
 Blots  Person
 -----  -------------
 2      Snail
-0      Janet
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
