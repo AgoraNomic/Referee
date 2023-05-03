@@ -3,20 +3,24 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 25 April 2023
-Date of last report: 17 April 2023
+Date of this report: 2 May 2023
+Date of last report: 25 April 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-2      Snail
+2*     4st
+1      Snail
+
+* An open CFJ exists that may affect this amount.
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
 Reporter  Infracter  Date        In. Fg.  Crime
 --------  ---------  ----------  --- --- -----------------------------
+Yachay    4st        2023-04-29  Yes No   Violating No Faking
 
 In. - Investigated
 Fg. - Forgiven
@@ -25,6 +29,8 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
+4st            +2      2023-04-29  (Potential) Violation of No Faking
+snail          -1      2023-04-29  Self-expungement
 [TIME OF LAST REPORT]
 Snail          +2      2023-04-14  Prime Minister Dive Order
 Janet          -1      2023-04-14  Self-Expungement
