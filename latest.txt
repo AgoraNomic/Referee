@@ -3,15 +3,14 @@
                  (Referee's Weekly Report)
            https://agoranomic.org/Referee/latest.txt
 ----------------------------------------------------------------------
-Date of this report: 1 June 2023
-Date of last report: 22 May 2023
+Date of this report: 8 June 2023
+Date of last report: 1 June 2023
 (all times UTC)
 
 BLOT HOLDINGS                                        (self-ratifies)
 ======================================================================
 Blots  Person
 -----  -------------
-0      nix
 
 INFRACTION HISTORY                            (does not self-ratify)
 ======================================================================
@@ -25,8 +24,8 @@ BLOT HISTORY                                  (does not self-ratify)
 ======================================================================
 Person        Change   Date        Reason
 ------------  -------  ----------  -----------------------------------
-nix            -1      2023-06-01  4st expunged a blot.
 [TIME OF LAST REPORT]
+nix            -1      2023-06-01  4st expunged a blot.
 nix            -1      2023-05-22  4st expunged a blot.
 nix            -1      2023-05-15  4st expunged a blot.
 nix            +1      2023-05-15  Rule 103 violation
